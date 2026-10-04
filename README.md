@@ -28,7 +28,7 @@ It provisions project architecture, local Git repository, GitHub remotes (`--pub
 
 Clone and execute directly:
 ```bash
-git clone https://github.com/sina-ie/cloudshell-scaffolder.git
+git clone https://github.com/your-github-username/cloudshell-scaffolder.git
 cd cloudshell-scaffolder
 chmod +x setup_project.sh
 ```
